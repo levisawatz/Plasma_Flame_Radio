@@ -28,8 +28,7 @@ this circuit uses an audio amplifier to modulate the supply voltage to the RF am
 
 The antenna is tuned and matched using a lumped network to allow for the ideal power to be transfered to the antenna. I learned so much about practical antennas during this project and the effects of earth grounding in sensitive circuits.  
 
-<img src=".\Media\plasma candle antenna vna.jpg" height="200"  />   
-<img src=".\Media\antenna power sim.png" height="200"  />   
+<img src=".\Media\plasma candle antenna vna.jpg" height="200"  />   <img src=".\Media\antenna power sim.png" height="200"  />   
 
 
 A vector network analyzer made it possible analyze and simulate the antenna in order to calculate the bast values for the lumped network.
