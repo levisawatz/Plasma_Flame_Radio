@@ -19,7 +19,7 @@ The large coil is a quarter wavelength antenna - it is 7m long and coiled around
 
 Using this circuit, I can transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
 
-this circuit uses an audio amplifier to modulate the supply voltage to the RF amplifier. Below are measurements of the mosfet's drain as I feed a sine wave and a square wave into the "audio in" of the circuit.
+this circuit uses an audio amplifier to modulate the supply voltage to the RF amplifier. Below are measurements of the mosfet's drain as I feed a sine wave and a square wave into the "audio in" of the circuit. It shows the audio frequency signals modulated with the 10MHz carrier frequency.
 
 <img src=".\Media\AM sine.png" height="200"  />   <img src=".\Media\AM square.png" height="200"  />  
 
