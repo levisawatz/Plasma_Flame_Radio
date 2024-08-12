@@ -9,17 +9,22 @@ This personal project was my deepest step into RF circuits to date and pushed me
 
 My inspiriation from some youtube videos I've watched which show off flashy and dangerous plasma.  
 It is a less deadly and budget friendly version of Styropyro's "fire death machine": https://youtu.be/UNisqZOAaAs?si=NMkZ1_NP11LKSfkR&t=481  
-The main 10MHz oscillator uses a similar circuit to the "plasma toroid circuit"  
-The large coil is a quarter wavelength antenna - it is 7m long and coiled around PVC pipe.  
+The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
-<img src=".\Media\10MHz oscilator circuit.png" height="100"  />  
+#### Plasma flame circuit  
+<img src=".\Media\flame_ltspice.png" height="300"  />  
 
 ## Part 2: 100W+ AM radio transmitter  
+
+I modified the "plasma flame" into an AM radio transmitter. This allowed me to transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
+
+#### AM radio circuit  
+
 <img src=".\Media\radio circuit.jpg" height="200"  />  
 
 Using this circuit, I can transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
 
-this circuit uses an audio amplifier to modulate the supply voltage to the RF amplifier. Below are measurements of the mosfet's drain as I feed a sine wave and a square wave into the "audio in" of the circuit.
+this circuit uses an audio amplifier to modulate the supply voltage to the RF amplifier. Below are measurements of the mosfet's drain as I feed a sine wave and a square wave into the "audio in" of the circuit. 
 
 <img src=".\Media\AM sine.png" height="200"  />   <img src=".\Media\AM square.png" height="200"  />  
 
