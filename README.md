@@ -10,6 +10,7 @@ My inspiriation from some youtube videos I've watched which show off flashy and 
 It is a less deadly and budget friendly version of Styropyro's "fire death machine": https://youtu.be/UNisqZOAaAs?si=NMkZ1_NP11LKSfkR&t=481  
 The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
+
 #### Plasma flame circuit  
 <img src=".\Media\flame_ltspice.png" height="300"  />  
 
@@ -30,5 +31,8 @@ The antenna is tuned and matched using a lumped network to allow for the ideal p
 
 <img src=".\Media\plasma candle antenna vna.jpg" height="200"  />   <img src=".\Media\antenna power sim.png" height="200"  />   
 
-
 A vector network analyzer made it possible analyze and simulate the antenna in order to calculate the bast values for the lumped network.
+
+Class E amplifiers are notorious for creating unwanted harmonics. These harmonics are a waste of power and can cause interference in restricted frequency bands. I operated my radio at 10.12MHz to align with local radio laws and I mitigated emissions at the harmonic frequencies by ensuring that the load (antenna and matching network) had high impedence at the unwanted harmonic frequencies (especially 20.2MHz)  
+
+<img src=".\Media\impedence_vs_f.png" height="300"  />
