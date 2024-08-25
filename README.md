@@ -7,7 +7,7 @@ This personal project was my deepest step into RF circuits to date and pushed me
 <img src=".\Media\plasma flame.gif" height="200"  />  
 
 My inspiriation for this project came from some youtube videos I've watched which show off flashy and dangerous plasma.  
-It is a less deadly and budget friendly version of Styropyro's "fire death machine": https://youtu.be/UNisqZOAaAs?si=NMkZ1_NP11LKSfkR&t=481  
+It is a less deadly and budget friendly version of Styropyro's "fire death machine": https://youtu.be/UNisqZOAaAs?si=NMkZ1_NP11LKSfkR&t=485
 The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
 
