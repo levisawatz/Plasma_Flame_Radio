@@ -2,7 +2,7 @@
 
 
 This personal project was my deepest step into RF circuits to date and pushed me to buy an oscilloscope and a vector network analyzer (VNA).  
-This is a work in progress, and I am developing a PCB for this circuit to create a "singing flame" where the plasma is acting as a speaker.
+This is a work in progress, and I am developing a PCB for this circuit to create a "singing flame" where the plasma acts as a speaker.
 
 ## Part 1: Plasma Flame  
 <img src=".\Media\plasma flame.gif" height="200"  />  
