@@ -15,7 +15,7 @@ The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive th
 
 ## Part 2: 100W+ AM radio transmitter  
 
-I modified the "plasma flame" into an AM radio transmitter. This allowed me to transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
+I modified the "plasma flame" circuit into an AM radio transmitter. This allowed me to transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
 
 #### AM radio circuit  
 <img src=".\Media\radio circuit.jpg" height="200"  />  
