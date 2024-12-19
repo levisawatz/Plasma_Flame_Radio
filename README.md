@@ -2,16 +2,16 @@
 
 
 This personal project was my deepest step into RF circuits to date and pushed me to buy an oscilloscope and a vector network analyzer (VNA).  
-This project is still in progress, and I am developing a PCB to create a "singing flame" where the plasma acts as a speaker.
+
 
 ## Part 1: Plasma Flame  
 <img src=".\Media\plasma flame.gif" height="200"  />  
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7251831855858003968" height="896" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+This circuit pumps enough power into the antenna to rip apart air and create a "plasma flame". comntrlling the power of the flame with audio can turn it into a speaker! listen to the "singing flame" on my [linkedin_post](https://www.linkedin.com/posts/levi-sawatzky_pcbdesign-innovation-tech-activity-7251831981049618432-Eb7l?utm_source=share&utm_medium=member_desktop)
 
-The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
 ### Plasma flame circuit  
+The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 <img src=".\Media\flame_ltspice.png" height="300"  />
 <img src=".\Media\V2 PCB.jpg" height="300"  />  
 
