@@ -9,17 +9,15 @@ This project is still in progress, and I am developing a PCB to create a "singin
 
 The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
-
-#### Plasma flame circuit  
+### Plasma flame circuit  
 <img src=".\Media\flame_ltspice.png" height="300"  />
 <img src=".\Media\V2 PCB.jpg" height="300"  />  
-
 
 ## Part 2: 100W+ AM radio transmitter  
 
 I modified the "plasma flame" circuit into an AM radio transmitter. This allowed me to transmit music as AM radio and listen to it using a handheld shortwave radio reciever.  
 
-#### AM radio circuit  
+### AM radio circuit  
 <img src=".\Media\circuit_diagram.jpg" height="200"  />  
 
 this circuit uses an audio amplifier to modulate the supply voltage to the RF amplifier. Below are measurements of the mosfet's drain as I feed a sine wave and a square wave into the "audio in" of the circuit. It shows the audio frequency signals modulated with the 10MHz carrier frequency.
