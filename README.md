@@ -12,7 +12,7 @@ The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive th
 
 #### Plasma flame circuit  
 <img src=".\Media\flame_ltspice.png" height="300"  />
-<img src="./Media/copper_clad_board.jpg" height="300"  />  
+<img src=".\Media\V2 PCB.jpg" height="300"  />  
 
 
 ## Part 2: 100W+ AM radio transmitter  
