@@ -7,10 +7,6 @@ This project is still in progress, and I am developing a PCB to create a "singin
 ## Part 1: Plasma Flame  
 <img src=".\Media\plasma flame.gif" height="200"  />  
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7251831855858003968" height="896" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
-
-My inspiriation for this project came from some youtube videos I've watched which show off flashy and dangerous plasma.  
-It is a less deadly and budget friendly version of Styropyro's "fire death machine": https://youtu.be/UNisqZOAaAs?si=NMkZ1_NP11LKSfkR&t=485
 The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
 
