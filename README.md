@@ -7,6 +7,8 @@ This project is still in progress, and I am developing a PCB to create a "singin
 ## Part 1: Plasma Flame  
 <img src=".\Media\plasma flame.gif" height="200"  />  
 
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7251831855858003968" height="896" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+
 The main 10MHz oscillator uses a self resonant ZVS class E amplifier to drive the antenna.  
 
 ### Plasma flame circuit  
