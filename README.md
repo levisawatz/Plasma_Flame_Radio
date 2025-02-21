@@ -5,7 +5,7 @@ This personal project was my deepest step into RF circuits to date and pushed me
 
 
 ## Part 1: Plasma Flame  
-<img src=".\Media\plasma flame.gif" height="200"  />  
+<img src=".\Media\massive_flame.gif" height="200"  />  
 
 This circuit pumps enough power into the antenna to rip apart air and create a "plasma flame". comntrlling the power of the flame with audio can turn it into a speaker! listen to the "singing flame" on my [linkedin_post](https://www.linkedin.com/posts/levi-sawatzky_pcbdesign-innovation-tech-activity-7251831981049618432-Eb7l?utm_source=share&utm_medium=member_desktop)
 
