@@ -1,7 +1,7 @@
 # Plasma_Flame_Radio
 
 
-This personal project was my deepest step into RF circuits to date and pushed me to buy an oscilloscope and a vector network analyzer (VNA).  
+  This personal project was my first big step into RF circuits to date and pushed me to buy an oscilloscope and a vector network analyzer (VNA).  
 
 
 ## Part 1: Plasma Flame  
